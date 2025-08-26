@@ -16,6 +16,15 @@ The controller agent routes tasks to different tools such as **web search, calcu
 
 ---
 
+https://colab.research.google.com/drive/1ixWqbOAyT-sY2RlU0hfeB26TQdlQpY_j#scrollTo=vMvLxnL7mba0
+
+
+cp config.example.json config.json
+{
+  "TAVILY_API_KEY": "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",
+  "GROQ_API_KEY": "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"
+}
+
 ##  Getting Started
 
 ### 1. Clone the Repository
